@@ -16,7 +16,7 @@ NEZHA_TLS="$NEZHA_TLS"
 ARGO_AUTH=''
 ARGO_DOMAIN="$ARGO_DOMAIN"
 
-# ttyd / filebrowser argo 域名
+# ttyd / filebrowser Argo 域名
 SSH_DOMAIN="$SSH_AUTH"
 FTP_DOMAIN="$FTP_AUTH"
 
