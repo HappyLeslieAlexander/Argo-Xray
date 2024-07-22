@@ -1,11 +1,11 @@
 {
-  "name": "express-hello-world",
+  "name": "Argo-Xray",
   "version": "1.0.0",
-  "description": "Express Hello World",
+  "description": "Argo-Xray",
   "main": "index.js",
   "repository": "https://github.com/HappyLeslieAlexander/Argo-Xray/",
-  "author": "fscarmen",
-  "license": "MIT",
+  "author": "HappyLeslieAlexander",
+  "license": "GPL3.0",
   "private": false,
   "scripts": {
     "start": "node index.js"
